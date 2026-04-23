@@ -1,6 +1,6 @@
 # All Restaurants in Tuscaloosa, Alabama, US
 
-> Free BeamStation sample export with 38 rows and masked direct-contact fields.
+> Free BeamStation sample export with 35 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `941362` |
 | Location | Tuscaloosa |
 | Category | Restaurants |
-| Full dataset size | 387 records |
-| Free sample size | 38 records (9.82%) |
-| Last export | 2026-04-16T10:07:58.088563+00:00 |
+| Full dataset size | 353 records |
+| Free sample size | 35 records (9.92%) |
+| Last export | 2026-04-23T10:01:08.275087+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-tuscaloosa-alabama-us-sample-941362/releases/download/sample-latest/beamstation_941362_restaurants-us-al_SAMPLE_DIST.csv) |
 
 ## What is in this sample
