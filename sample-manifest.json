@@ -1,12 +1,12 @@
 {
-  "export_job_id": "685f8815-027b-4809-b7c5-777136ae4d3d",
+  "export_job_id": "08cd2131-7616-4c88-8297-b55cdac98563",
   "id_short": 941362,
-  "published_at": "2026-04-23T19:15:25Z",
+  "published_at": "2026-04-30T19:20:01Z",
   "repo_name": "all-restaurants-in-tuscaloosa-alabama-us-sample-941362",
   "sample_asset_name": "beamstation_941362_restaurants-us-al_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/941362/beamstation_941362_restaurants-us-al_SAMPLE_DIST.csv",
-  "sample_records": 35,
-  "sample_sha256": "d5b49c28ec22cbc64761d8484d4eab3d44491b2fa029dc6f028d53c1b9776c8f",
-  "sample_size_bytes": 149037,
-  "total_records": 353
+  "sample_records": 42,
+  "sample_sha256": "9485f3edab599ac7fbd1c92ad42881d1899bb0913fb9f7c59545ec4b691629f3",
+  "sample_size_bytes": 134526,
+  "total_records": 425
 }
